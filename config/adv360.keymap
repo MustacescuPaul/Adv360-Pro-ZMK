@@ -24,7 +24,7 @@
             compatible = "zmk,behavior-hold-tap";
             label = "HMFAST";
             #binding-cells = <2>;
-            tapping-term-ms = <200>;
+            tapping-term-ms = <175>;
             quick_tap_ms = <175>;
             flavor = "tap-preferred";
             bindings = <&kp>, <&kp>;
